@@ -55,13 +55,7 @@ python dcgan.py --mode generate --batch_size 128
 
 
 
-**generated images :** 
-
-
-![inout_image.png](./assets/input_image.png)
-
-
-
+**generated image:** 
 
 
 ![generated_image.png](./assets/stacked_generated_image.png)
